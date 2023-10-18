@@ -14,6 +14,12 @@ Follow the instructions for your database library:
 
 ## crystal-pg
 
+Enable the extension
+
+```crystal
+db.exec "CREATE EXTENSION IF NOT EXISTS vector"
+```
+
 Create a table
 
 ```crystal
