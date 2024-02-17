@@ -4,7 +4,7 @@
 
 Supports [crystal-pg](https://github.com/will/crystal-pg)
 
-[![Build Status](https://github.com/pgvector/pgvector-crystal/workflows/build/badge.svg?branch=master)](https://github.com/pgvector/pgvector-crystal/actions)
+[![Build Status](https://github.com/pgvector/pgvector-crystal/actions/workflows/build.yml/badge.svg)](https://github.com/pgvector/pgvector-crystal/actions)
 
 ## Getting Started
 
