@@ -12,9 +12,10 @@ Follow the instructions for your database library:
 
 - [crystal-pg](#crystal-pg)
 
-Or check out an example:
+Or check out some examples:
 
 - [Embeddings](examples/openai/example.cr) with OpenAI
+- [Binary embeddings](examples/cohere/example.cr) with Cohere
 
 ## crystal-pg
 
