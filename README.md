@@ -12,6 +12,10 @@ Follow the instructions for your database library:
 
 - [crystal-pg](#crystal-pg)
 
+Or check out an example:
+
+- [Embeddings](examples/openai/example.cr) with OpenAI
+
 ## crystal-pg
 
 Enable the extension
@@ -66,4 +70,12 @@ cd pgvector-crystal
 shards install
 createdb pgvector_crystal_test
 crystal src/example.cr
+```
+
+To run an example:
+
+```sh
+cd examples/openai
+createdb pgvector_example
+crystal examples/openai/example.cr
 ```
