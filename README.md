@@ -17,6 +17,7 @@ Or check out some examples:
 - [Embeddings](examples/openai/example.cr) with OpenAI
 - [Binary embeddings](examples/cohere/example.cr) with Cohere
 - [Hybrid search](examples/hybrid/example.cr) with Ollama (Reciprocal Rank Fusion)
+- [Sparse search](examples/sparse/example.cr) with Text Embeddings Inference
 
 ## crystal-pg
 
